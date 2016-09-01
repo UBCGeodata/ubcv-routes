@@ -4,6 +4,7 @@ UBC Vancouver Road/Path dataset
 General Info
 ------------
 * Dataset created Spring 2015.
+* Current as of Summer 2016.
 * Contains all roads, sidewalks, paths, trails, etc at UBC Vancouver campus.
 * Data were created to enable multimodal routing.
 * Simplified versions are provided for simpler routing or cartography.
