@@ -21,3 +21,8 @@ License
 
 
 
+
+About
+-----
+* More information about UBC's geospatial data on GitHub can be found [here](https://github.com/UBCGeodata/opendata)
+* There is some info about how to view and download data at the link above.
