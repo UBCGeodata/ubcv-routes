@@ -1,0 +1,15 @@
+Fieldname,Type,Description
+ROAD_TYPE,string,"Path or road type: Primary Pathway, Local Access Pathway, Crosswalk, Trail, Local, Service, Collector, Arterial"
+NAME,string,Route Name
+ONEWAY,string,Oneway: FT: From-To TF: To-From Null: two-way
+STAIRS,string,"Route Segment is stairway: Y, Steep if not stairs but too steep for accesible access."
+F_ELEV,string,"Placeholder, From elevation"
+T_ELEV,string,"Placeholder, To elevation"
+JURISDICTION,string,Operational ownership of the route
+VEHICLE_ACCESS,string,"PUBLIC, SERVICE, EMERGENCY access hierarchy"
+SURFACE_TYPE,string,"If not paved, ie gravel."
+DRIVETIME,float,To hold calculated drivetime for routing
+PEDESTRIAN_ACCESS,string,"Pedestrian Access, Y/N"
+BIKE_ACCESS,string,"Cycle Access, Y/N"
+MAINTENANCE,string,Placeholder
+WALKT,float,To hold calculated walktime for routing
