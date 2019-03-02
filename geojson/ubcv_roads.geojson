@@ -18,8 +18,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -38,8 +40,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -59,8 +63,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -79,8 +85,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -103,8 +111,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -126,8 +136,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -147,8 +159,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -167,8 +181,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -194,8 +210,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -217,8 +235,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -238,8 +258,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -261,8 +283,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -281,8 +305,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -301,8 +327,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -325,8 +353,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -348,8 +378,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -370,8 +402,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -390,8 +424,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -411,8 +447,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -431,8 +469,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -451,8 +491,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -472,8 +514,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -494,8 +538,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -515,8 +561,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -537,8 +585,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -557,8 +607,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -577,8 +629,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -598,8 +652,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -622,8 +678,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -643,8 +701,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -665,8 +725,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -685,8 +747,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -705,8 +769,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -731,8 +797,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -758,8 +826,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -783,8 +853,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -804,8 +876,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -824,8 +898,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -854,8 +930,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -910,8 +988,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -931,8 +1011,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -974,8 +1056,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1005,8 +1089,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1025,8 +1111,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1045,8 +1133,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1067,8 +1157,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1088,8 +1180,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1115,8 +1209,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1139,8 +1235,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1168,8 +1266,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1188,8 +1288,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1208,8 +1310,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1271,8 +1375,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1291,8 +1397,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1314,8 +1422,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1334,8 +1444,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1356,8 +1468,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1378,8 +1492,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1398,8 +1514,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1427,8 +1545,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1447,8 +1567,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1467,8 +1589,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1493,8 +1617,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1521,8 +1647,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1541,8 +1669,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1563,8 +1693,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1600,8 +1732,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1620,8 +1754,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1645,8 +1781,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1682,8 +1820,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1716,8 +1856,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1755,8 +1897,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1788,8 +1932,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1817,8 +1963,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1848,8 +1996,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1871,8 +2021,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1892,8 +2044,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1913,8 +2067,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1939,8 +2095,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1965,8 +2123,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -1986,8 +2146,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2006,8 +2168,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2026,8 +2190,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2060,8 +2226,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2083,8 +2251,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2103,8 +2273,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2125,8 +2297,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2145,8 +2319,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2165,8 +2341,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2188,8 +2366,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2218,8 +2398,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2248,8 +2430,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2271,8 +2455,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2294,8 +2480,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2315,8 +2503,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2335,8 +2525,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2355,8 +2547,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2384,8 +2578,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2405,8 +2601,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2426,8 +2624,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2446,8 +2646,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2467,8 +2669,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2488,8 +2692,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2508,8 +2714,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2528,8 +2736,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2562,8 +2772,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2594,8 +2806,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2617,8 +2831,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2637,8 +2853,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2658,8 +2876,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2678,8 +2898,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2699,8 +2921,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2719,8 +2943,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2743,8 +2969,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2764,8 +2992,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2784,8 +3014,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2805,8 +3037,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2826,8 +3060,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2846,8 +3082,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2867,8 +3105,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2887,8 +3127,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2907,8 +3149,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2928,8 +3172,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2948,8 +3194,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2969,8 +3217,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -2989,8 +3239,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3010,8 +3262,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3036,8 +3290,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3056,8 +3312,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3081,8 +3339,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3110,8 +3370,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3130,8 +3392,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3151,8 +3415,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3233,8 +3499,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3257,8 +3525,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3279,8 +3549,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3299,8 +3571,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3326,8 +3600,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3346,8 +3622,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3372,8 +3650,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3399,8 +3679,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3421,8 +3703,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3442,8 +3726,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3463,8 +3749,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3484,8 +3772,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3506,8 +3796,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3532,8 +3824,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3553,8 +3847,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3577,8 +3873,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3599,8 +3897,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3620,8 +3920,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3640,8 +3942,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3661,8 +3965,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3681,8 +3987,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3702,8 +4010,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3731,8 +4041,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3760,8 +4072,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3780,8 +4094,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3804,8 +4120,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3824,8 +4142,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3844,8 +4164,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3864,8 +4186,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3890,8 +4214,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3920,8 +4246,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3942,8 +4270,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3963,8 +4293,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -3983,8 +4315,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4003,8 +4337,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4033,8 +4369,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4075,8 +4413,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4095,8 +4435,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4142,8 +4484,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4169,8 +4513,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4196,8 +4542,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4228,8 +4576,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4294,8 +4644,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4314,8 +4666,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4334,8 +4688,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4356,8 +4712,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4433,8 +4791,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4454,8 +4814,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4474,8 +4836,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4504,8 +4868,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4536,8 +4902,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4567,8 +4935,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4590,8 +4960,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4613,8 +4985,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4639,8 +5013,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4660,8 +5036,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4682,8 +5060,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4708,8 +5088,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4730,8 +5112,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4751,8 +5135,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4774,8 +5160,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4794,8 +5182,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4819,8 +5209,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4839,8 +5231,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4859,8 +5253,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4879,8 +5275,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4916,8 +5314,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -4963,8 +5363,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5024,8 +5426,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5046,8 +5450,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5068,8 +5474,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5088,8 +5496,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5108,8 +5518,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5138,8 +5550,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5167,8 +5581,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5197,8 +5613,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5218,8 +5636,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5239,8 +5659,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5269,8 +5691,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5289,8 +5713,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5309,8 +5735,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5334,8 +5762,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5361,8 +5791,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5381,8 +5813,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5402,8 +5836,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5422,8 +5858,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5446,8 +5884,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5470,8 +5910,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5501,8 +5943,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5522,8 +5966,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5548,8 +5994,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5569,8 +6017,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5601,8 +6051,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5622,8 +6074,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5642,8 +6096,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5662,8 +6118,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5685,8 +6143,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5705,8 +6165,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5726,8 +6188,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5749,8 +6213,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5769,8 +6235,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5790,8 +6258,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5813,8 +6283,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5841,8 +6313,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5862,8 +6336,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5885,8 +6361,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5912,8 +6390,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5932,8 +6412,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5964,8 +6446,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -5993,8 +6477,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6013,8 +6499,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6043,8 +6531,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6063,8 +6553,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6084,8 +6576,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6105,8 +6599,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6128,8 +6624,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6149,8 +6647,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6235,8 +6735,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6258,8 +6760,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6307,8 +6811,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6347,8 +6853,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6367,8 +6875,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6390,8 +6900,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6426,8 +6938,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6455,8 +6969,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6477,8 +6993,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6544,8 +7062,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6597,8 +7117,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6617,8 +7139,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6642,8 +7166,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6693,8 +7219,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6728,8 +7256,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6749,8 +7279,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6769,8 +7301,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6790,8 +7324,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6810,8 +7346,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6842,8 +7380,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6862,8 +7402,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6883,8 +7425,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6912,8 +7456,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6932,8 +7478,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6952,8 +7500,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6974,8 +7524,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -6998,8 +7550,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7019,8 +7573,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7040,8 +7596,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7071,8 +7629,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7098,8 +7658,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7122,8 +7684,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7144,8 +7708,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7167,8 +7733,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7187,8 +7755,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7216,8 +7786,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7247,8 +7819,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7273,8 +7847,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7301,8 +7877,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7334,8 +7912,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7361,8 +7941,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7387,8 +7969,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7416,8 +8000,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7441,8 +8027,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7464,8 +8052,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7490,8 +8080,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7515,8 +8107,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7542,8 +8136,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7564,8 +8160,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7592,8 +8190,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7613,8 +8213,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7633,8 +8235,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7653,8 +8257,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7674,8 +8280,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7694,8 +8302,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7714,8 +8324,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7739,8 +8351,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7759,8 +8373,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7779,8 +8395,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7799,8 +8417,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7829,8 +8449,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7859,8 +8481,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7882,8 +8506,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7916,8 +8542,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -7941,8 +8569,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8013,8 +8643,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8034,8 +8666,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8054,8 +8688,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8082,8 +8718,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8116,8 +8754,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8146,8 +8786,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8177,8 +8819,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8197,8 +8841,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8218,8 +8864,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8240,8 +8888,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8267,8 +8917,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8290,8 +8942,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8312,8 +8966,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8333,8 +8989,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8353,8 +9011,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8376,8 +9036,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8397,8 +9059,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8417,8 +9081,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8444,8 +9110,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8465,8 +9133,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8523,8 +9193,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8543,8 +9215,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8563,8 +9237,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8598,8 +9274,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8619,8 +9297,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8647,8 +9327,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8668,8 +9350,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8696,8 +9380,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8719,8 +9405,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8746,8 +9434,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8767,8 +9457,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8788,8 +9480,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8866,8 +9560,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8898,8 +9594,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -8942,8 +9640,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9008,8 +9708,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9030,8 +9732,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9052,8 +9756,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9075,8 +9781,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9107,8 +9815,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9128,8 +9838,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9150,8 +9862,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9177,8 +9891,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9269,8 +9985,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9296,8 +10014,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9318,8 +10038,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9351,8 +10073,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9374,8 +10098,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9397,8 +10123,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9431,8 +10159,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9454,8 +10184,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9475,8 +10207,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9502,8 +10236,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9528,8 +10264,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9563,8 +10301,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9588,8 +10328,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9614,8 +10356,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9636,8 +10380,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9658,8 +10404,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9687,8 +10435,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9710,8 +10460,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9740,8 +10492,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9760,8 +10514,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9783,8 +10539,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9808,8 +10566,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9832,8 +10592,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9854,8 +10616,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9881,8 +10645,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9909,8 +10675,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9931,8 +10699,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9951,8 +10721,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9972,8 +10744,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -9992,8 +10766,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10023,8 +10799,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10053,8 +10831,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10089,8 +10869,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10118,8 +10900,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10151,8 +10935,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10180,8 +10966,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10209,8 +10997,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10241,8 +11031,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10266,8 +11058,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10286,8 +11080,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10318,8 +11114,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10338,8 +11136,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10358,8 +11158,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10384,8 +11186,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10404,8 +11208,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10424,8 +11230,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10457,8 +11265,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10490,8 +11300,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10510,8 +11322,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10534,8 +11348,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10572,8 +11388,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10614,8 +11432,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10634,8 +11454,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10655,8 +11477,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10678,8 +11502,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10703,8 +11529,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10723,8 +11551,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10744,8 +11574,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10766,8 +11598,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10787,8 +11621,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10807,8 +11643,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10847,8 +11685,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10870,8 +11710,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10957,8 +11799,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10979,8 +11823,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -10999,8 +11845,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11019,8 +11867,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11040,8 +11890,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11076,8 +11928,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11096,8 +11950,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11117,8 +11973,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11138,8 +11996,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11160,8 +12020,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11183,8 +12045,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11207,8 +12071,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11228,8 +12094,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11251,8 +12119,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11272,8 +12142,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11294,8 +12166,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11314,8 +12188,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11334,8 +12210,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11357,8 +12235,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11377,8 +12257,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11398,8 +12280,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11419,8 +12303,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11440,8 +12326,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11461,8 +12349,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11485,8 +12375,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11512,8 +12404,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11539,8 +12433,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11565,8 +12461,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11591,8 +12489,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11611,8 +12511,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11635,8 +12537,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11655,8 +12559,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11676,8 +12582,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11697,8 +12605,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11718,8 +12628,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11739,8 +12651,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11759,8 +12673,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11779,8 +12695,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11800,8 +12718,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11820,8 +12740,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11840,8 +12762,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11861,8 +12785,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11883,8 +12809,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11908,8 +12836,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11932,8 +12862,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11953,8 +12885,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -11978,8 +12912,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12019,8 +12955,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12068,8 +13006,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12097,8 +13037,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12118,8 +13060,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12140,8 +13084,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12161,8 +13107,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12189,8 +13137,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12220,8 +13170,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12250,8 +13202,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12282,8 +13236,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12314,8 +13270,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12343,8 +13301,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12365,8 +13325,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12393,8 +13355,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12416,8 +13380,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12436,8 +13402,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12456,8 +13424,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12476,8 +13446,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12496,8 +13468,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12516,8 +13490,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12537,8 +13513,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12582,8 +13560,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12618,8 +13598,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12659,8 +13641,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12704,8 +13688,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12725,8 +13711,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12745,8 +13733,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12775,8 +13765,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12796,8 +13788,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12816,8 +13810,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12853,8 +13849,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12873,8 +13871,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12894,8 +13894,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12916,8 +13918,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12937,8 +13941,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12960,8 +13966,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -12981,8 +13989,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13001,8 +14011,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13023,8 +14035,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13043,8 +14057,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13064,8 +14080,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13085,8 +14103,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13105,8 +14125,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13133,8 +14155,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13161,8 +14185,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13190,8 +14216,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13218,8 +14246,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13248,8 +14278,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13276,8 +14308,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13308,8 +14342,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13333,8 +14369,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13354,8 +14392,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13376,8 +14416,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13396,8 +14438,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13418,8 +14462,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13441,8 +14487,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13465,8 +14513,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13498,8 +14548,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13519,8 +14571,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13546,8 +14600,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13575,8 +14631,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13595,8 +14653,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13615,8 +14675,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13639,8 +14701,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13659,8 +14723,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13687,8 +14753,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13720,8 +14788,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13741,8 +14811,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13761,8 +14833,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13813,8 +14887,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13835,8 +14911,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13862,8 +14940,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13891,8 +14971,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13911,8 +14993,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -13957,8 +15041,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14021,8 +15107,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14051,8 +15139,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14075,8 +15165,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14103,8 +15195,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14132,8 +15226,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14152,8 +15248,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14239,8 +15337,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14259,8 +15359,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14289,8 +15391,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14317,8 +15421,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14341,8 +15447,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14361,8 +15469,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14381,8 +15491,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14500,8 +15612,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14520,8 +15634,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14540,8 +15656,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14584,8 +15702,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14762,8 +15882,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14794,8 +15916,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14816,8 +15940,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14836,8 +15962,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14857,8 +15985,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14879,8 +16009,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14900,8 +16032,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14921,8 +16055,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14943,8 +16079,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14965,8 +16103,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -14992,8 +16132,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15040,8 +16182,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15063,8 +16207,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15083,8 +16229,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15103,8 +16251,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15126,8 +16276,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15163,8 +16315,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15187,8 +16341,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15208,8 +16364,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15228,8 +16386,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15255,8 +16415,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15275,8 +16437,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15295,8 +16459,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15336,8 +16502,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15385,8 +16553,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15407,8 +16577,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15433,8 +16605,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15455,8 +16629,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15475,8 +16651,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15501,8 +16679,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15521,8 +16701,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15544,8 +16726,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15565,8 +16749,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15590,8 +16776,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15615,8 +16803,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15657,8 +16847,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15678,8 +16870,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15700,8 +16894,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15720,8 +16916,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15741,8 +16939,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15761,8 +16961,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15781,8 +16983,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15801,8 +17005,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15823,8 +17029,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15862,8 +17070,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15887,8 +17097,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15913,8 +17125,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15936,8 +17150,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15956,8 +17172,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -15993,8 +17211,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16013,8 +17233,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16033,8 +17255,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16056,8 +17280,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16078,8 +17304,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16098,8 +17326,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16143,8 +17373,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16164,8 +17396,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16185,8 +17419,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16207,8 +17443,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16228,8 +17466,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16249,8 +17489,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16296,8 +17538,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16327,8 +17571,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16361,8 +17607,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16383,8 +17631,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16405,8 +17655,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16431,8 +17683,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16452,8 +17706,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16472,8 +17728,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16493,8 +17751,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16517,8 +17777,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16538,8 +17800,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16561,8 +17825,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16584,8 +17850,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16605,8 +17873,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16631,8 +17901,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16653,8 +17925,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16688,8 +17962,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16717,8 +17993,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16738,8 +18016,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16758,8 +18038,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16778,8 +18060,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16805,8 +18089,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16855,8 +18141,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16882,8 +18170,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16907,8 +18197,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16929,8 +18221,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16949,8 +18243,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16975,8 +18271,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -16997,8 +18295,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17018,8 +18318,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17040,8 +18342,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17060,8 +18364,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17085,8 +18391,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17106,8 +18414,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17126,8 +18436,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17149,8 +18461,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17170,8 +18484,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17196,8 +18512,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17226,8 +18544,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17251,8 +18571,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17288,8 +18610,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17318,8 +18642,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17356,8 +18682,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17377,8 +18705,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17400,8 +18730,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17423,8 +18755,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17449,8 +18783,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "N"
+				"BIKE_ACCESS" : "N",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17471,8 +18807,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17491,8 +18829,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17511,8 +18851,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17537,8 +18879,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17562,8 +18906,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17582,8 +18928,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17602,8 +18950,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17633,8 +18983,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17656,8 +19008,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17686,8 +19040,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17706,8 +19062,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17729,8 +19087,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17758,8 +19118,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17788,8 +19150,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17811,8 +19175,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17833,8 +19199,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17871,8 +19239,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17931,8 +19301,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17964,8 +19336,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -17984,8 +19358,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18008,8 +19384,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18030,8 +19408,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18050,8 +19430,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18071,8 +19453,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18092,8 +19476,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18117,8 +19503,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18141,8 +19529,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18167,8 +19557,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18191,8 +19583,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18217,8 +19611,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18242,8 +19638,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18264,8 +19662,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18285,8 +19685,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "N"
+				"BIKE_ACCESS" : "N",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18315,8 +19717,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18335,8 +19739,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18355,8 +19761,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18377,8 +19785,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18397,8 +19807,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18417,8 +19829,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18437,8 +19851,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18457,8 +19873,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18523,8 +19941,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18560,8 +19980,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18580,8 +20002,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18601,8 +20025,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18622,8 +20048,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18645,8 +20073,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18666,8 +20096,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18702,8 +20134,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18730,8 +20164,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18756,8 +20192,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18777,8 +20215,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18810,8 +20250,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18831,8 +20273,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18860,8 +20304,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18880,8 +20326,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18902,8 +20350,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18932,8 +20382,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18952,8 +20404,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18974,8 +20428,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -18997,8 +20453,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19020,8 +20478,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19041,8 +20501,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19061,8 +20523,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19087,8 +20551,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19111,8 +20577,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19137,8 +20605,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19162,8 +20632,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19184,8 +20656,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19206,8 +20680,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19226,8 +20702,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19246,8 +20724,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19268,8 +20748,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19288,8 +20770,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19309,8 +20793,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19332,8 +20818,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19352,8 +20840,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19373,8 +20863,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19393,8 +20885,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19416,8 +20910,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19439,8 +20935,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19460,8 +20958,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19481,8 +20981,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19501,8 +21003,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19530,8 +21034,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19602,8 +21108,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19628,8 +21136,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19655,8 +21165,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19675,8 +21187,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19698,8 +21212,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19722,8 +21238,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19743,8 +21261,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19771,8 +21291,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19794,8 +21316,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19818,8 +21342,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19838,8 +21364,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19860,8 +21388,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19881,8 +21411,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19904,8 +21436,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19924,8 +21458,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19948,8 +21484,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -19998,8 +21536,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20049,8 +21589,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20071,8 +21613,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20091,8 +21635,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20116,8 +21662,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20139,8 +21687,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20160,8 +21710,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "FT",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20182,8 +21734,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20202,8 +21756,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20222,8 +21778,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20244,8 +21802,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20272,8 +21832,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20302,8 +21864,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20340,8 +21904,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20360,8 +21926,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20380,8 +21948,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20401,8 +21971,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20421,8 +21993,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20442,8 +22016,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20462,8 +22038,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20483,8 +22061,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20503,8 +22083,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20523,8 +22105,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20543,8 +22127,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20565,8 +22151,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20597,8 +22185,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20653,8 +22243,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20673,8 +22265,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20693,8 +22287,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20714,8 +22310,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20735,8 +22333,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20761,8 +22361,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20782,8 +22384,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20806,8 +22410,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20827,8 +22433,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20847,8 +22455,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20870,8 +22480,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "AH",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20892,8 +22504,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20913,8 +22527,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "Y",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20933,8 +22549,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20954,8 +22572,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20977,8 +22597,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -20997,8 +22619,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21019,8 +22643,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21043,8 +22669,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21063,8 +22691,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21083,8 +22713,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21104,8 +22736,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21124,8 +22758,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21147,8 +22783,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21192,8 +22830,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21217,8 +22857,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21254,8 +22896,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21291,8 +22935,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "TF",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : ""
+				"BIKE_ACCESS" : "",
+				"ACCESSIBLE" : ""
 			}
 		},
 		{
@@ -21312,8 +22958,10 @@
 				"SURFACE_TYPE" : "",
 				"ONEWAY" : "",
 				"STAIRS" : "",
+				"MAIN" : "",
 				"PEDESTRIAN_ACCESS" : "N",
-				"BIKE_ACCESS" : "Y"
+				"BIKE_ACCESS" : "Y",
+				"ACCESSIBLE" : ""
 			}
 		}
 	]
