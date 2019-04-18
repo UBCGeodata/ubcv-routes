@@ -10,6 +10,19 @@ General Info
 * Simplified versions are provided for simpler routing or cartography.
 * Click on the geojson files to preview them on Github.
 
+Datasets
+--------
+### ubcv_routes_src
+* contains all route segments
+### ubcv_roads
+* contains only route segments where ROAD_TYPE = Arterial, Collector, Local, Service
+### ubcv_paths_sidewalks
+* contains only route segments where ROAD_TYPE != Arterial, Collector, Local, Service
+* Note: Many routes commonly used by pedestrians are service roads.
+### ubcv_roads_simple
+* just named roads on campus, for simpler maps and labels.
+
+
 Files Provided
 --------------
 * Provided in geojson and file geodatabase formats.
