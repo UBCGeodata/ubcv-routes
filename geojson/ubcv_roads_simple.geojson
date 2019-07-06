@@ -945,6 +945,21 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ -123.23620474532932, 49.260167124348314 ],
+					[ -123.23733177033388, 49.25976370618716 ]
+				]
+			},
+			"properties" : {
+				"GLOBALID" : "{60C428C9-B5F7-4080-8E47-87C3B6050451}",
+				"NAME" : "Salmo Crt",
+				"ROADNAME" : "Salmo Court"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ -123.21490411323879, 49.26392508085331 ],
 					[ -123.19084100818938, 49.26357879665267 ]
 				]
